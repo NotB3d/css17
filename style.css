@@ -13,14 +13,14 @@ nav {
 
 section {
     background-color: rgb(245, 208, 243);
-    width: 700px;
+    width: 600px;
     height: 600px;
     float: left;
 }
 
 aside {
     background-color: rgba(121, 78, 118, 0.144);
-    width: 700px;
+    width: 600px;
     height: 600px;
     float: right;
 }
